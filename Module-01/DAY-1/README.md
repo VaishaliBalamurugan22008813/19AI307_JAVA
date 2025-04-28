@@ -27,7 +27,7 @@ RegisterNumber:  212222230164
 
 ## Sourcecode.java:
 
-/*
+```
 import java.util.*;
 class Student
 {
@@ -50,7 +50,7 @@ public class Main
     }
 }
 
-*/
+```
 
 
 ## OUTPUT:
