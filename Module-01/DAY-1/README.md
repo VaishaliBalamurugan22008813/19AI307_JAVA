@@ -4,13 +4,14 @@
 To create a class named 'Student' with String variable 'name' and String variable 'address'.
 
 ## ALGORITHM :
+```
 1.Start the program.
 2.Define a class named 'Student'.
 3.Declare a String variable 'name' within the 'Student' class.
 4.Declare a String variable 'address' within the 'Student' class.
 5.Declare an integer variable 'rollno' within the 'Student' class.
 6.End the definition of the 'Student' class
-
+```
 
 
 ## PROGRAM:
