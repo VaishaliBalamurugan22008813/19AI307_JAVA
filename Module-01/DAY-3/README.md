@@ -50,7 +50,9 @@ public class Demo
 
 ## OUTPUT:
 
-![image](./output.png)
+
+![JAVA3](https://github.com/user-attachments/assets/2c675691-c4f9-4871-93f0-7be1afed035d)
+
 
 ## RESULT:
 Thus, the Java program to check given number is zero or not was created successfully.
