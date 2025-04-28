@@ -22,8 +22,8 @@ To develop a Java Program display "welcome to java" using modifiers.
 ## PROGRAM:
  ```
 Program to implement a access modifiers using Java
-Developed by    : Sam Israel D 
-RegisterNumber  : 212222230128
+Developed by    : VAISHALI BALAMURUGAN 
+RegisterNumber  : 212222230164
 ```
 
 ## Sourcecode.java:
@@ -50,7 +50,6 @@ public void display()
 
 ## OUTPUT:
 
-![image](./output.png)
 
 ## RESULT:
 Thus the java program to display the addition number using access modifiers only was executed successfully.
