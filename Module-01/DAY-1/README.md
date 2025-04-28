@@ -1,7 +1,7 @@
 # Ex.No:1(A) CLASS & OBJECTS
 
 ## AIM:
-To create a class named 'Student' with String variable 'name' and String variable 'address'.
+To Create a class named 'Student' with String variable 'name' and String variable 'address' and integer variable 'rollno
 
 ## ALGORITHM :
 ```
