@@ -41,14 +41,7 @@ public class Demo
     }
 }
 ```
-
-
-
-
-
 ## OUTPUT:
-
-
 
 
 ## RESULT:
