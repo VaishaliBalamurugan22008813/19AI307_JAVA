@@ -23,8 +23,8 @@ To create a Java program print area of rectangle by defining instance method and
 ## PROGRAM:
  ```
 Program to implement a User Defined Method using Java
-Developed by    : MOUNESH P 
-RegisterNumber  : 212222230084
+Developed by    : VAISHALI BALAMURUGAN P 
+RegisterNumber  : 212222230164
 ```
 
 ## Sourcecode.java:
@@ -53,7 +53,8 @@ public class Area {
 
 ## OUTPUT:
 
-![JAVA4](https://github.com/user-attachments/assets/6dff1828-50a7-476c-8219-ea5391da4c70)
+![JAVA4](https://github.com/user-attachments/assets/94de9f13-4554-4e8c-ba8f-08e5795f7253)
+
 
 
 ## RESULT:
