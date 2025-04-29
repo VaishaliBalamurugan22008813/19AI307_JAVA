@@ -49,8 +49,8 @@ public void display()
 
 
 ## OUTPUT:
-
 ![image](./output.png)
+
 
 ## RESULT:
 Thus the java program to display the addition number using access modifiers only was executed successfully.
