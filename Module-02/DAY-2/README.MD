@@ -25,7 +25,6 @@ Program to implement a access modifiers using Java
 Developed by    : VAISHALI BALAMURUGAN 
 RegisterNumber  : 212222230164
 ```
-
 ## Sourcecode.java:
 
 ```java
@@ -49,8 +48,8 @@ public void display()
 
 
 ## OUTPUT:
-![image](./output.png)
 
+![image](https://github.com/user-attachments/assets/1926f10f-dc28-4e88-af04-61e870eab552)
 
 ## RESULT:
 Thus the java program to display the addition number using access modifiers only was executed successfully.
